@@ -1,49 +1,49 @@
 ranking	long name	sample name	gain in OD	alive
-1	Parkway Middle School	PM1B	1.0518	True
+1	Oakland Raiders	RAID3B	1.0518	True
 2	Pop Warner Chittenango	Chit1C	0.9916	True
 3	Mars Exploration Rover (JPL)	MER 157	0.9726	True
-4	Academy of Natural Sciences 	ANS3A	0.9633	True
-5	Davis, California	THU	0.958	True
-6	Pop Warner Coronado	PWCor2B	0.9508	True
+4	Smithsonian A&S Museum	SMI9	0.9633	True
+5	Discover Magazine	DIS2A	0.958	True
+6	Denver Museum of Natural History	DMNS8A	0.9508	True
 7	Yuri's Night: Los Angeles	YNLA1	0.9451	True
-8	KARE 11 Kitchen Show	Kit3	0.9324	True
-9	Smithsonian A&S Museum	SMI9	0.9034	True
-10	Liberty Bell	LB3A	0.8973	True
-11	AT&T Park (San Francisco)	ATT5A	0.8961	True
-12	WHYY Radio	WHYY3B	0.8804	True
+8	San Antonio Spurs	Spurs2	0.9324	True
+9	KARE 11 Kitchen Show	Kit3	0.9223	True
+10	Davis, California	THU	0.8973	True
+11	Pop Warner Saints	PWS2AY	0.8961	True
+12	Pop Warner Lake Brantley	PWLB1C	0.8804	True
 13	SF 49ers	FN1H	0.8612	True
-14	Mars Exploration Rover (JPL)	MER TA 8-2	0.8488	True
-15	St. Joseph's Prep School	STJO1A	0.8385	True
-16	Pop Warner Apopka	PWA1C	0.8255	True
+14	Tennessee Titans	TIT1C	0.8488	True
+15	Mars Exploration Rover (JPL)	273.1.3	0.8385	True
+16	Franklin Institute (PA)	FI1B	0.8255	True
 17	Pop Warner Bengals	PW-PWB2A2	0.8239	True
-18	Pop Warner Lake Brantley	PWLB1C	0.8201	True
-19	Insight 2016 Robotic Arm	InSight12-2	0.806	True
-20	Chemical Heritage Foundation	CHF3A	0.8029	True
-21	Oakland Raiders	RAID3B	0.7912	True
-22	Washington D.C. NFL team	RED1C	0.7829	True
-23	Discover Magazine	DIS2A	0.773	True
-24	Today Show	TOD3A	0.7728	True
-25	Mars Exploration Rover (JPL)	MER TA 28	0.7646	True
-26	Pop Warner Broncos	MI1C	0.7615	True
-27	Mars Exploration Rover (JPL)	273.1.3	0.7514	True
-28	San Antonio Spurs	Spurs2	0.7469	True
-29	Pop Warner Saints	PWS2AY	0.7277	True
-30	Chapman Hill Elementary	CH2B	0.7184	True
-31	Denver Museum of Natural History	DMNS8A	0.7112	True
-32	Franklin Institute (PA)	FI1B	0.7102	True
-33	Philadelphia 76ers	SN8	0.6987	True
-34	1975 Viking Mars Orbiter	OB179	0.6937	True
-35	Yuri's Night: North Carolina	YNNC1	0.6924	True
-36	Mars Exploration Rover (JPL)	MER TA 108	0.6888	True
-37	Tennessee Titans	TIT1C	0.6277	True
-38	Deerfield Academy	D1B	0.6264	True
-39	UC Davis	COR2C	0.6263	True
-40	Mars Exploration Rover (JPL)	MER TA 21	0.6204	True
-41	Yuri's Night: New York	YNNY5	0.6078	True
-42	Orlando Magic	ORL2	0.5993	True
-43	Georgia Tech	G4B	0.5816	True
-44	Sacramento Kings	SK5	0.5269	True
-45	Philadelphia Phillies	Phillies10A	0.4815	True
-46	New England Patriots	PATS2B	0.4435	True
-47	Chicago Field Museum	FM1B	0.436	True
-48	Catholic Montessori School	MONT1D	0.4046	True
+18	Liberty Bell	LB3A	0.821	True
+19	Washington D.C. NFL team	RED1C	0.8142	True
+20	AT&T Park (San Francisco)	ATT5A	0.806	True
+21	Mars Exploration Rover (JPL)	MER TA 108	0.7728	True
+22	Insight 2016 Robotic Arm	InSight12-2	0.7615	True
+23	Chemical Heritage Foundation	CHF3A	0.7595	True
+24	Parkway Middle School	PM1B	0.7561	True
+25	St. Joseph's Prep School	STJO1A	0.7514	True
+26	Pop Warner Broncos	MI1C	0.7277	True
+27	Yuri's Night: North Carolina	YNNC1	0.7184	True
+28	UC Davis	COR2C	0.6937	True
+29	Chapman Hill Elementary	CH2B	0.6924	True
+30	Today Show	TOD3A	0.6888	True
+31	Mars Exploration Rover (JPL)	MER TA 28	0.6664	True
+32	1975 Viking Mars Orbiter	OB179	0.6282	True
+33	Mars Exploration Rover (JPL)	MER TA 8-2	0.6277	True
+34	Yuri's Night: New York	YNNY5	0.6264	True
+35	New England Patriots	PATS2B	0.6204	True
+36	Deerfield Academy	D1B	0.6188	True
+37	Orlando Magic	ORL2	0.5993	True
+38	Philadelphia 76ers	SN8	0.5781	True
+39	Chicago Field Museum	FM1B	0.5724	True
+40	Georgia Tech	G4B	0.5721	True
+41	Pop Warner Apopka	PWA1C	0.5605	True
+42	Pop Warner Coronado	PWCor2B	0.5316	True
+43	Sacramento Kings	SK5	0.5269	True
+44	Academy of Natural Sciences 	ANS3A	0.4922	True
+45	WHYY Radio	WHYY3B	0.489	True
+46	Philadelphia Phillies	Phillies10A	0.4815	True
+47	Mars Exploration Rover (JPL)	MER TA 21	0.4542	True
+48	Catholic Montessori School	MONT1D	0.2749	True

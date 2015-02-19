@@ -1,49 +1,49 @@
 ranking	long name	sample name	gain in OD	alive
 1	Yuri's Night: Los Angeles	YNLA1	1.5392	True
 2	San Antonio Spurs	Spurs2	1.4346	True
-3	Davis, California	THU	1.4302	True
-4	KARE 11 Kitchen Show	Kit3	1.3955	True
-5	Oakland Raiders	RAID3B	1.3833	True
-6	Chemical Heritage Foundation	CHF3A	1.3493	True
-7	Chapman Hill Elementary	CH2B	1.3464	True
-8	Parkway Middle School	PM1B	1.3427	True
-9	Yuri's Night: North Carolina	YNNC1	1.3282	True
-10	Pop Warner Bengals	PW-PWB2A2	1.324	True
-11	1975 Viking Mars Orbiter	OB179	1.3089	True
-12	Today Show	TOD3A	1.3089	True
-13	Academy of Natural Sciences 	ANS3A	1.2649	True
-14	Pop Warner Chittanoga	Chit1C	1.2485	True
-15	SF 49ers	FN1H	1.2455	True
-16	Franklin Institute (PA)	FI1B	1.242	True
-17	Philadelphia 76ers	SN8	1.2379	True
-18	Washington D.C. NFL team	RED1C	1.2247	True
-19	Pop Warner Coronado	PWCor2B	1.2189	True
-20	Denver Museum of Natural History	DMNS8A	1.2007	True
-21	WHYY Radio	WHYY3B	1.1891	True
-22	Liberty Bell	LB3A	1.1868	True
-23	Pop Warner Broncos	MI1C	1.1847	True
-24	Mars Exploration Rover (JPL)	MER TA 28	1.1817	True
-25	Pop Warner Saints	PWS2AY	1.1808	True
-26	Orlando Magic	ORL2	1.1764	True
-27	Mars Exploration Rover (JPL)	MER TA 8-2	1.1681	True
-28	Mars Exploration Rover (JPL)	273.1.3	1.1597	True
-29	Mars Exploration Rover (JPL)	MER TA 108	1.1577	True
-30	Georgia Tech	G4B	1.152	True
-31	AT&T Park (San Francisco)	ATT5A	1.1484	True
-32	Mars Exploration Rover (JPL)	MER 157	1.1441	True
-33	St. Joseph's Prep School	STJO1A	1.1372	True
-34	New England Patriots	PATS2B	1.1133	True
-35	Pop Warner Lake Brantley	PWLB1C	1.0879	True
-36	Pop Warner Apopka	PWA1C	1.0876	True
-37	Discover Magazine	DIS2A	1.0837	True
-38	Insight 2016 Robotic Arm	InSight12-2	1.0546	True
-39	Mars Exploration Rover (JPL)	MER TA 21	1.0205	True
-40	Tennessee Titans	TIT1C	0.9736	True
-41	Chicago Field Museum	FM1B	0.9495	True
-42	Smithsonian A&S Museum	SMI9	0.9451	True
-43	Yuri's Night: New York	YNNY5	0.924	True
-44	UC Davis	COR2C	0.903	True
-45	Sacramento Kings	SK5	0.8954	True
-46	Deerfield Academy	D1B	0.8747	True
-47	Philadelphia Phillies	Phillies10A	0.836	True
-48	Catholic Montessori School	MONT1D	0.6375	True
+3	Discover Magazine	DIS2A	1.4302	True
+4	Chemical Heritage Foundation	CHF3A	1.3493	True
+5	Yuri's Night: North Carolina	YNNC1	1.3464	True
+6	Parkway Middle School	PM1B	1.3427	True
+7	Pop Warner Bengals	PW-PWB2A2	1.3388	True
+8	Chapman Hill Elementary	CH2B	1.3282	True
+9	1975 Viking Mars Orbiter	OB179	1.3089	True
+10	Mars Exploration Rover (JPL)	MER TA 108	1.3089	True
+11	Smithsonian A&S Museum	SMI9	1.2649	True
+12	Oakland Raiders	RAID3B	1.2537	True
+13	Pop Warner Chittenango	Chit1C	1.2485	True
+14	Pop Warner Lake Brantley	PWLB1C	1.2379	True
+15	Mars Exploration Rover (JPL)	MER TA 28	1.2336	True
+16	Mars Exploration Rover (JPL)	MER 157	1.2247	True
+17	Denver Museum of Natural History	DMNS8A	1.2189	True
+18	KARE 11 Kitchen Show	Kit3	1.1862	True
+19	Pop Warner Broncos	MI1C	1.1847	True
+20	Chicago Field Museum	FM1B	1.1764	True
+21	Tennessee Titans	TIT1C	1.1681	True
+22	Franklin Institute (PA)	FI1B	1.1622	True
+23	St. Joseph's Prep School	STJO1A	1.1597	True
+24	Pop Warner Saints	PWS2AY	1.1489	True
+25	Mars Exploration Rover (JPL)	273.1.3	1.1372	True
+26	SF 49ers	FN1H	1.1332	True
+27	Davis, California	THU	1.1264	True
+28	Academy of Natural Sciences 	ANS3A	1.1187	True
+29	Mars Exploration Rover (JPL)	MER TA 21	1.1133	True
+30	Insight 2016 Robotic Arm	InSight12-2	1.0828	True
+31	Georgia Tech	G4B	1.0675	True
+32	New England Patriots	PATS2B	1.0205	True
+33	AT&T Park (San Francisco)	ATT5A	1.0155	True
+34	Liberty Bell	LB3A	0.994	True
+35	Orlando Magic	ORL2	0.981	True
+36	Mars Exploration Rover (JPL)	MER TA 8-2	0.9736	True
+37	Pop Warner Apopka	PWA1C	0.9637	True
+38	Yuri's Night: New York	YNNY5	0.924	True
+39	Philadelphia Phillies	Phillies10A	0.9131	True
+40	Washington D.C. NFL team	RED1C	0.9114	True
+41	UC Davis	COR2C	0.8599	True
+42	Deerfield Academy	D1B	0.7959	True
+43	Pop Warner Coronado	PWCor2B	0.7882	True
+44	Sacramento Kings	SK5	0.7508	True
+45	Today Show	TOD3A	0.7406	True
+46	WHYY Radio	WHYY3B	0.7178	True
+47	Philadelphia 76ers	SN8	0.7129	True
+48	Catholic Montessori School	MONT1D	0.4967	True
