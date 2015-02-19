@@ -1,0 +1,48 @@
+1	JPL	Microbacteria arborescens	OB179	1975 Viking Mars Orbiter
+2	JPL	Bacillus safensis	MER TA 8-2	Mars Exploration Rover (JPL)
+3	JPL	Bacillus pumilus	MER TA 21	Mars Exploration Rover (JPL)
+4	JPL	Bacillus megaterium PPB5	273.1.3	Mars Exploration Rover (JPL)
+5	JPL	Bacillus atrophaeus	MER TA 108	Mars Exploration Rover (JPL)
+6	JPL	Paenibacillus elgii	MER 157	Mars Exploration Rover (JPL)
+7	JPL	Bacillus subtilis	InSight12-2	Insight 2016 Robotic Arm
+8	JPL	Kocuria rosea	MER TA 28	Mars Exploration Rover (JPL)
+9	Sacramento Kings	Micrococcus luteus	SK5	Sacramento Kings
+10	UC Davis	Leucobacter chironomi	THU	Davis, California
+11	San Antonio Spurs	Kocuria kristinae	Spurs2	San Antonio Spurs
+12	YNLA	Kocuria rhizophila	YNLA1	Yuri's Night: Los Angeles
+13	YNNY	Bacillus methylotrophicus	YNNY5	Yuri's Night: New York
+14	YNNC	Kocuria marina	YNNC1	Yuri's Night: North Carolina
+15	Orlando Magic	Bacillus subtilus	ORL2	Orlando Magic
+16	ANS	Bacillus stratosphericus	ANS3A	Academy of Natural Sciences 
+17	CHF	Bacillus megaterium	CHF3A	Chemical Heritage Foundation
+18	DMNS	Bacillus atrophaeus	DMNS8A	Denver Museum of Natural History
+19	Franklin Institute	Bacillus amyloliquefaciens	FI1B	Franklin Institute (PA)
+20	Kitchen Show	Streptomyces kanamyceticus	Kit3	KARE 11 Kitchen Show
+21	Liberty Bell	Bacillus megaterium	LB3A	Liberty Bell
+22	Phillies	Bacillus tequilensis	Phillies10A	Philadelphia Phillies
+23	76ers	Bacillus lichenformis	SN8	Philadelphia 76ers
+24	PW Broncos	Bacillus aryabhattai	MI1C	Pop Warner Broncos
+25	PW-Saints	Bacillus horikoshii	PWS2AY	Pop Warner Saints
+26	PW-Lake Brantley	Micrococcus luteus	PWLB1C	Pop Warner Lake Brantley
+27	PW-Chittenango	Bacillus pumilus	Chit1C	Pop Warner Chittenango
+28	49ers	Exiguobacterium acetylicum 	FN1H	SF 49ers
+29	Parkway Middle	Bacillus horikoshii	PM1B	Parkway Middle School
+30	PW Apopka	Micrococcus luteus	PWA1C	Pop Warner Apopka
+31	PW Coronado	Unclassified Sphingomonadaceae	PWCor2B	Pop Warner Coronado
+32	PW PeeWee Bengals	Bacillus marisflavi	PW-PWB2A2	Pop Warner Bengals
+33	Smithsonian A&S	Pantoea eucrina	SMI9	Smithsonian A&S Museum
+34	Field Museum	Paenibacillus mucilaginosus	FM1B	Chicago Field Museum
+35	Chapman Hill	Arthrobacter nitroguajacolicus	CH2B	Chapman Hill Elementary
+36	Deerfield	Bacillus altitudinis	D1B	Deerfield Academy
+37	Georgia Tech	Curtobacterium herbarum	G4B	Georgia Tech
+38	Raiders	Bacillus aryabhattai	RAID3B	Oakland Raiders
+39	Discover	Micrococcus yunnanensis	DIS2A	Discover Magazine
+40	Montessori	Macrococcus equipercicus	MONT1D	Catholic Montessori School
+41	WHYY	Macrococcus brunensis	WHYY3B	WHYY Radio
+42	AT&T Park	Exiguobacterium sibiricum	ATT5A	AT&T Park (San Francisco)
+43	Redskins	Exiguobacterium indicum	RED1C	Washington D.C. NFL team
+44	Today Show	Bacillus tequilensis	TOD3A	Today Show
+45	St. Joseph's	Microbacterium oleivorans	STJO1A	St. Joseph's Prep School
+46	Patriots	Bacillus amyloliquefaciens	PATS2B	New England Patriots
+47	Titans	Bacillus flexus	TIT1C	Tennessee Titans
+48	UC Davis	Curtobacterium pusillum	COR2C	UC Davis
