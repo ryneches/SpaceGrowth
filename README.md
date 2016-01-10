@@ -1,9 +1,12 @@
-# SpaceGrowth
-Growth data and analysis for microbial playoffs in space, Project MERCCURI
+# Microbes in Spaaaaaaaaaaaaaaaaaaaaaaaaaaaace
+### Growth data and analysis for microbial playoffs in space
+#### Project MERCCURI
 
-This repository contains all the raw data from both the ground based and in-orbit growth experiments. 
-The insturments used were SpectraMax M5e plate readers, with the device aboard the International 
-Space Station modified by Nanoracks, Inc. All measurements are optical density at 600 nm (OD600).
+This repository contains all the raw data from both the ground based
+and in-orbit growth experiments.  The insturments used were SpectraMax
+M5e plate readers, with the device aboard the International Space
+Station modified by Nanoracks, Inc. All measurements are optical
+density at 600 nm (OD600).
 
 ### What is all this stuff?
 
@@ -19,6 +22,8 @@ Space Station modified by Nanoracks, Inc. All measurements are optical density a
 The raw data has been plotted in 12x8 grids of bar charts. Each grid
 cell represents the well on the plate, and each bar represents one of
 the nine reads in the well.
+
+#### Raw data from the ground
 
 Ground Plate 1 : 0, 24, 48, 72, 96 hours
 
@@ -44,6 +49,8 @@ Ground Plate 3 : 0, 24, 48, 72, 96 hours
 * `Groundplate3_72.{txt,png,pdf}` : raw data, PNG chart, PDF chart
 * `Groundplate3_96.{txt,png,pdf}` : raw data, PNG chart, PDF chart
 
+#### Raw data from Space
+
 Space Plate 1 : 0, 24, 48, 72, 96 hours
 
 * `Spaceplate1_0.{txt,png,pdf}`  : raw data, PNG chart, PDF chart
@@ -68,7 +75,7 @@ Space Plate 3 : 0, 24, 48, 72, 96 hours
 * `Spaceplate3_72.{txt,png,pdf}` : raw data, PNG chart, PDF chart
 * `Spaceplate3_96.{txt,png,pdf}` : raw data, PNG chart, PDF chart
 
-Plate mapping files :
+#### Plate mapping files
 
 * `platemap_ground1.csv` : Map for Ground Plate 1
 * `platemap_ground2.csv` : Map for Ground Plate 2
@@ -77,12 +84,12 @@ Plate mapping files :
 * `platemap_space2.csv`  : Map for Space Plate 2
 * `platemap_space3.csv`  : Map for Space Plate 3
 
-Sample metadata : 
+#### Sample metadata
 
 * `spacebugs.tsv` : bug list (index, species, name)
 * `spacebugsnames_2.txt` : bug list (index, site, species, name, source)
 
-### Plots, charts and tables
+#### Plots, charts and tables
 
 The event data is plotted in 12x4 grids gathering all observations for
 each organism into one grid cell (two experiments of six wells of nine
@@ -114,4 +121,10 @@ of the experiment
 * `BestSprint_top3.{png,pdf}` : Charts of top 3 results
 * `BestSprintRankings.tsv`    : Table of numerical results
 
+## Funding
 
+This work was funded by a grant from the Alphred P. Sloan foundation
+to Jonathan A. Eisen. Launch costs were supported by Space Florida.
+Launch integration was performed by Nanorack, Inc. This project would
+not have been possible without the expert help and guidance of Carl
+Carruthers at Nanoracks.  
