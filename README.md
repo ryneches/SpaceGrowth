@@ -1,4 +1,4 @@
-# Microbes in Spaaaaaaaaaaaaaaaaaaaaaaaaaaaace
+# Microbes in Spaaaaaaaaaaaaaaaace
 ### Growth data and analysis for microbial playoffs in space
 #### Project MERCCURI
 
@@ -10,7 +10,7 @@ density at 600 nm (OD600).
 
 ### What is all this stuff?
 
-*There are a lot of files here! What's going on?* Not to worry.
+*There are a lot of files here! What's going on?*
 
 #### Notebooks
 
@@ -123,7 +123,13 @@ of the experiment
 
 Space vs. Ground :
 
-The folder 
+The folder `Space_v_Ground` contains PDfs and PNGs comparing the
+median optical density of the space-based and ground-based experiments
+for each individual organism. Files are named according to their
+sample name as it appears in the mapping files.
+
+* `Space_vs_Ground.{png,pdf}`   : Charts of Spave vs. Ground results
+* `Space_vs_Ground.tsv`         : Table of Space vs. Ground rankings
 
 ## Funding
 
