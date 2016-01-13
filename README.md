@@ -10,7 +10,7 @@ density at 600 nm (OD600).
 
 ### What is all this stuff?
 
-*There are a lot of files here! What's going on?*
+*There are a lot of files here! What's going on?* Not to worry.
 
 #### Notebooks
 
@@ -120,6 +120,10 @@ of the experiment
 * `BestSprint.{png,pdf}`      : Charts of all results
 * `BestSprint_top3.{png,pdf}` : Charts of top 3 results
 * `BestSprintRankings.tsv`    : Table of numerical results
+
+Space vs. Ground :
+
+The folder 
 
 ## Funding
 

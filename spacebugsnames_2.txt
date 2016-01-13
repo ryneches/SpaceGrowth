@@ -40,7 +40,7 @@
 40	Montessori	Macrococcus equipercicus	MONT1D	Catholic Montessori School
 41	WHYY	Macrococcus brunensis	WHYY3B	WHYY Radio
 42	AT&T Park	Exiguobacterium sibiricum	ATT5A	AT&T Park (San Francisco)
-43	Redskins	Exiguobacterium indicum	RED1C	Washington D.C. NFL team
+43	Washington D.C. NFL Team	Exiguobacterium indicum	DCNFL1C	Washington D.C. NFL Team
 44	Today Show	Bacillus tequilensis	TOD3A	Today Show
 45	St. Joseph's	Microbacterium oleivorans	STJO1A	St. Joseph's Prep School
 46	Patriots	Bacillus amyloliquefaciens	PATS2B	New England Patriots
