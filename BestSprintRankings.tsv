@@ -17,7 +17,7 @@ ranking	long name	sample name	gain in OD (space)	gain in OD (ground)	alive
 16	Franklin Institute (PA)	FI1B	0.8255	0.7773	True
 17	Pop Warner Bengals	PW-PWB2A2	0.8239	0.9501	True
 18	Liberty Bell	LB3A	0.821	0.8448	True
-19	Washington D.C. NFL team	RED1C	0.8142	0.7939	True
+19	Washington D.C. NFL Team	DCNFL1C	0.8142	0.7939	True
 20	AT&T Park (San Francisco)	ATT5A	0.806	0.8732	True
 21	Mars Exploration Rover (JPL)	MER TA 108	0.7728	0.7679	True
 22	Insight 2016 Robotic Arm	InSight12-2	0.7615	0.8858	True

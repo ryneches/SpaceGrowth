@@ -38,7 +38,7 @@ ranking	long name	sample name	gain in OD (space)	gain in OD (ground)	alive
 37	Pop Warner Apopka	PWA1C	0.9637	1.4997	True
 38	Yuri's Night: New York	YNNY5	0.924	1.3179	True
 39	Philadelphia Phillies	Phillies10A	0.9131	0.6907	True
-40	Washington D.C. NFL team	RED1C	0.9114	0.9023	True
+40	Washington D.C. NFL Team	DCNFL1C	0.9114	0.9023	True
 41	UC Davis	COR2C	0.8599	1.359	True
 42	Deerfield Academy	D1B	0.7959	1.143	True
 43	Pop Warner Coronado	PWCor2B	0.7882	0.9085	True
