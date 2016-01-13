@@ -8,6 +8,8 @@ M5e plate readers, with the device aboard the International Space
 Station modified by Nanoracks, Inc. All measurements are optical
 density at 600 nm (OD600).
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.44661.svg)](http://dx.doi.org/10.5281/zenodo.44661)
+
 ### What is all this stuff?
 
 *There are a lot of files here! What's going on?*
