@@ -18,6 +18,7 @@ density at 600 nm (OD600).
 
 * `SpaceGrowthWinners.ipynb` : Generates analytical charts and tables
 * `SpectraMax M5e OD600.ipynb` : Generates charts of raw data
+* `OD600 Tecan.ipynb` : Generates charts for method validation
 
 #### Raw data
 
@@ -76,6 +77,10 @@ Space Plate 3 : 0, 24, 48, 72, 96 hours
 * `Spaceplate3_48.{txt,png,pdf}` : raw data, PNG chart, PDF chart
 * `Spaceplate3_72.{txt,png,pdf}` : raw data, PNG chart, PDF chart
 * `Spaceplate3_96.{txt,png,pdf}` : raw data, PNG chart, PDF chart
+
+Method validation run :
+
+* `OD600_tecan_raw.{csv,png,pdf}` : raw data, PNG chart, PDF chart
 
 #### Plate mapping files
 
