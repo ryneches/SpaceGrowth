@@ -82,6 +82,13 @@ Method validation run :
 
 * `OD600_tecan_raw.{csv,png,pdf}` : raw data, PNG chart, PDF chart
 
+* `Tecan_final_ground1.csv` : raw data from post-experiment plate scan
+* `Tecan_final_ground2.csv` : raw data from post-experiment plate scan
+* `Tecan_final_ground3.csv` : raw data from post-experiment plate scan
+* `Tecan_final_space1.csv`  : raw data from post-experiment plate scan
+* `Tecan_final_space2.csv`  : raw data from post-experiment plate scan
+* `Tecan_final_space3.csv`  : raw data from post-experiment plate scan
+
 #### Plate mapping files
 
 * `platemap_ground1.csv` : Map for Ground Plate 1
